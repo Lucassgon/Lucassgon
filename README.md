@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucassgon, a programmer.
+- 👋 Hello, I’m @Lucassgon ( Lucas Gontijo), a programmer.
 - 👀 I’m interested in developing web aplications.
 - 🌱 I’m currently learning React.js and Django.
 - 💞️ I’m looking to collaborate on projects.
